@@ -1,0 +1,14 @@
+/* Tailwind css style initialization */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+/* Customize your style here. */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    background-color: #FEFEFE;
+    font-family: 'Libre';
+}
